@@ -307,10 +307,11 @@ z-index: 2;
     color: #fff;
 }
 
+/* FOOTER */
 
-
-
-
+footer {
+    background-color: #242424;
+}
 
 
 
